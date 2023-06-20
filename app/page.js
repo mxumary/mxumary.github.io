@@ -1,6 +1,10 @@
 export default function Home() {
   return (
     <div>
+      <head>
+        <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>🥭</text></svg>"></link>
+        <title>Mary Xu</title>
+     </head>
       <main className="bg-white px-20">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between">
