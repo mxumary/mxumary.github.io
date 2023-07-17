@@ -2,7 +2,7 @@ import Link from "next/link";
 import Head from "app/components/Head";
 export default function Home() {
   return (
-    <>
+    <div>
       <head>
         <link rel="icon" type="image/png" href="/mango.png"></link>
         <title>Mary Xu</title>
@@ -19,6 +19,6 @@ export default function Home() {
             </div>
         </main>
       </body>
-    </>
+    </div>
   );
 }
