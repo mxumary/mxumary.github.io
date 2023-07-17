@@ -30,7 +30,7 @@ export default function Home() {
                 and a web developer at the UPenn Student Federal Credit Union.
               </p>
               <p className = 'text-md py-1 mt-1 text-slate-800 max-w-3xl'>
-                I'm most reachable by <Link className="underline decoration-sky-500/30" href="https://www.linkedin.com/in/mxumary/">LinkedIn</Link>. You can also find me on <Link className="underline decoration-sky-500/30" href="https://github.com/mxumary">Github</Link>. Feel free to say hi!
+                I&apos;m most reachable by <Link className="underline decoration-sky-500/30" href="https://www.linkedin.com/in/mxumary/">LinkedIn</Link>. You can also find me on <Link className="underline decoration-sky-500/30" href="https://github.com/mxumary">Github</Link>. Feel free to say hi!
               </p>
             </div>
             {/* <div className="fixed bottom-0 left-0 right-0">

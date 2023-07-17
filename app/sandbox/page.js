@@ -16,7 +16,7 @@ export default function Home() {
                 <div className="px-20">
                   <h2 className = 'text-4xl py-2 font-semibold'>Sandbox</h2>
                   <p className = 'text-md py-2 mt-1 text-slate-800 max-w-3xl'>
-                    Some other projects that might not fit under the traditional "data science portfolio".
+                    Some other projects that might not fit under the traditional data science portfolio.
                   </p>
                 </div>
             </main>
