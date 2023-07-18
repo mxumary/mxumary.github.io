@@ -4,11 +4,11 @@ import Header from "app/components/Header";
 // import Footer from "app/components/Footer";
 export default function Home() {
   return (
-    <div>
-      <Head>
-        <link rel="icon" type="image/png" href="/mango.png"></link>
+    <>
+      <head>
         <title>Mary Xu</title>
-      </Head>
+        <link rel="icon" type="image/png" href="/mango.png"></link>
+      </head>
       <div className="bg-white px-20">
         <nav className="py-10 mb-12 flex justify-between">
         <Header />
@@ -38,6 +38,6 @@ export default function Home() {
             </div> */}
         </main>
       </div>
-    </div>
+    </>
   );
 }

@@ -3,11 +3,11 @@ import Header from "app/components/Header";
 import Head from "next/head";
 export default function Projects() {
   return (
-    <div>
-      <Head>
-        <link rel="icon" type="image/png" href="/mango.png"></link>
-        <title>About me</title>
-      </Head>
+    <>
+      <head>
+        <link rel="icon" type="image/png" href="/mango.png" />
+        <title>Projects</title>
+      </head>
       <div className="bg-white px-20">
         <nav className="py-10 mb-12 flex justify-between">
           <Header />
@@ -46,6 +46,6 @@ export default function Projects() {
           </div>
         </main>
       </div>
-    </div>
+    </>
   );
 }
