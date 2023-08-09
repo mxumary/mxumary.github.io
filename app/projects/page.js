@@ -19,7 +19,7 @@ export default function Projects() {
           <div className="px-20 py-8">
             <h2 className = 'text-xl font-semibold'>Atlassian</h2>
             <h3 className = 'text-large font-semibold'>May 2023-August 2023</h3>
-            <p className = 'font-serif text-md py-2 mt-1 text-gray-800 max-w-3xl'>I worked in Atlassian's marketing analytics team, specifically in "land" marketing: understanding how customers
+            <p className = 'font-serif text-md py-2 mt-1 text-gray-800 max-w-3xl'>I worked in Atlassian&apos;s marketing analytics team, specifically in "land" marketing: understanding how customers
             convert from signups to purchasing Atlasian products. My intern project worked closely with online marketing. I made a self-serve data product tracking Atlassian's performance in 
             online channels by using Tableau and SQL. I learned best design practices for self-serve data products, data storytelling, and writing efficient SQL code. 
             </p>
@@ -47,7 +47,7 @@ export default function Projects() {
             <h3 className = 'text-large font-semibold'>June 2022-August 2022</h3>
             <p className = 'font-serif text-md py-2 mt-1 text-gray-800 max-w-3xl'>
             I worked in the CSOT team (Channels, Onboarding, and Onboarding Technology) on the CashPro product. I had a data engieering/analytics engineering role, where I made ETL pipelines tracking 
-            foreign exchange rates and defined new table schemas. Additionally, since I was interested in learning more about web development in Python, I also integrated a Flask app into my team's Jira application that 
+            foreign exchange rates and defined new table schemas. Additionally, since I was interested in learning more about web development in Python, I also integrated a Flask app into my team&apos;s Jira application that 
             tracked the estimated amount of time each team member will spend in a given sprint. This was helpful for my product owner for planning task allocation for future sprints.
             </p>
           </div>
