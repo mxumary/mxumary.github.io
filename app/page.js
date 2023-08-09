@@ -15,7 +15,7 @@ export default function Home() {
         </nav>
         <main>
             <div className="px-20">
-              <h2 className = 'text-4xl py-2 font-semibold'>Hi, I&apos;m Mary 👋</h2>
+              <h2 className = 'text-4xl py-2 font-bold'>Hi, I&apos;m Mary 👋</h2>
               <p className = 'font-serif text-md py-2 mt-1 text-slate-800 max-w-3xl'>
                 This summer, I was a data science intern at Atlassian. I study statistics 
                 and business at the The Wharton School and am pursuing an MSE in Data Science at Penn Engineering. Additioanlly, I research small-group

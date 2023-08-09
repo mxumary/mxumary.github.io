@@ -14,7 +14,7 @@ export default function Projects() {
         </nav>
         <main>
           <div className="px-20">
-            <h2 className = 'text-4xl py-2 font-semibold'>Projects</h2>
+            <h2 className = 'text-4xl py-2 font-bold'>Projects</h2>
           </div>
           <div className="px-20 py-8">
             <h2 className = 'text-xl font-semibold'>Atlassian</h2>

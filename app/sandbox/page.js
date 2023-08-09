@@ -14,10 +14,13 @@ export default function Home() {
             </nav>
             <main>
                 <div className="px-20">
-                  <h2 className = 'text-4xl py-2 font-semibold'>Sandbox</h2>
+                  <h2 className = 'text-4xl py-2 font-bold'>Sandbox</h2>
                   <p className = 'mb-4 text-md py-2 mt-1 text-slate-800 max-w-3xl font-serif'>
-                  Projects that are older/might not fit into a traditional data science portfolio. Stay tuned!
+                  Projects that are older/might not fit into a traditional data science portfolio.
                   </p>
+                  <h2 className = 'text-xl font-semibold'>This website!</h2>
+                  <p className = 'font-serif text-md py-2 mt-1 text-gray-800 max-w-3xl'>Since my research involves React, I wanted to get better at web development. This website was built with Next.js, Tailwind, and Vercel.
+            </p>
                 </div>
             </main>
           </div>
