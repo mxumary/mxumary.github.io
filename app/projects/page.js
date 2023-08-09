@@ -19,8 +19,8 @@ export default function Projects() {
           <div className="px-20 py-8">
             <h2 className = 'text-xl font-semibold'>Atlassian</h2>
             <h3 className = 'text-large font-semibold'>May 2023-August 2023</h3>
-            <p className = 'font-serif text-md py-2 mt-1 text-gray-800 max-w-3xl'>I worked in Atlassian&apos;s marketing analytics team, specifically in "land" marketing: understanding how customers
-            convert from signups to purchasing Atlasian products. My intern project worked closely with online marketing. I made a self-serve data product tracking Atlassian's performance in 
+            <p className = 'font-serif text-md py-2 mt-1 text-gray-800 max-w-3xl'>I worked in Atlassian&apos;s marketing analytics team, specifically in &quot;land&quot; marketing: understanding how customers
+            convert from signups to purchasing Atlasian products. My intern project worked closely with online marketing. I made a self-serve data product tracking Atlassian&apos;s performance in 
             online channels by using Tableau and SQL. I learned best design practices for self-serve data products, data storytelling, and writing efficient SQL code. 
             </p>
             <Link className="underline decoration-sky-500/30 font-serif text-md py-2 mt-1 text-gray-800 max-w-3xl" href="https://mxumary.notion.site/Anchor-performance-dashboard-d19ead0784ed4369a9b83492d1048887">
