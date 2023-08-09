@@ -17,8 +17,8 @@ export default function Home() {
             <div className="px-20">
               <h2 className = 'text-4xl py-2 font-semibold'>Hi, I&apos;m Mary 👋</h2>
               <p className = 'font-serif text-md py-2 mt-1 text-slate-800 max-w-3xl'>
-                Currently, I&apos;m a data science intern at Atlassian. I study statistics 
-                and business at the University of Pennsylvania/The Wharton School, researching small-group
+                This summer, I was a data science intern at Atlassian. I study statistics 
+                and business at the The Wharton School and am pursuing an MSE in Data Science at Penn Engineering. Additioanlly, I research small-group
                 deliberation at the <Link className="underline decoration-sky-500/30" href="https://css.seas.upenn.edu/">Computational Social Science Lab</Link>.
               </p>
               <p className = 'font-serif text-md py-1 mt-1 text-slate-800 max-w-3xl'>
